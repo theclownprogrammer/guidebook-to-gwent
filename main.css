@@ -1,0 +1,177 @@
+body{
+    background-image: linear-gradient(to bottom, #017b65, #001914);
+    font-family: 'GWENT', sans-serif;
+}
+.main-text{
+
+font-family: 'GWENT';
+font-size: 100px;
+background: linear-gradient(180deg, #41F8AB 0%, #11915c 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-shadow: 3px 3px 10px #000000b3;
+-webkit-text-stroke-width: 2px;
+-webkit-text-stroke-color: black;
+position: absolute;
+left:540px;
+top: 400px;
+}
+
+.header-account-icon{
+    height: 70px;
+    width: 70px;
+   background-color: #0CF6DA;
+   border-radius: 50%;
+   position:absolute;
+   top:17%;
+   left: 70%;
+}
+
+.grow:hover{
+    transform: scale(1.15);
+}
+
+.header-account{
+    position: absolute;
+    top:25%;
+    left:20%;
+}
+
+.header-main{
+    position: absolute;
+    top:25%;
+    left:30%;
+}
+
+.header-collection{
+    position: absolute;
+    top:25%;
+    left:14%;
+}
+
+.header-table{
+    background-image: linear-gradient(to bottom, #00CC8F, #01281C);
+    width: 1741px;
+    height: 120px;
+    border: 7px solid #000000;
+    font-size: 64px;
+    table-layout: fixed;
+    text-align: center;
+    border-collapse: collapse;
+    position: absolute;
+    top: 8%;
+    left: 21.62%;
+}
+
+td{
+    border: 7px solid #000000;
+    position: relative;
+    text-align: center;
+}
+
+td a{
+    color: #00FF75;
+    padding: 5px;
+    position: absolute;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+}
+
+
+.header-icon{
+    position: absolute;
+width: 172.26px;
+height: 188.26px;
+left: 150px;
+top: 50px;
+
+}
+
+.btn-Btn-BTn-BTN{
+    color: #013a29;
+    position: absolute;
+    bottom: 0;
+}
+
+header{
+    height: 350px;
+}
+
+.name{
+    position: absolute;
+    right:0;
+    color: white;
+    font-size: 44px;
+}
+
+.main-posttext{
+    font-size: 40px;
+    width: 1164.86px;
+    color: #868686;
+    position: absolute;
+    left:540px;
+    top: 550px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.main-posttext-red{
+    color: #C30303;
+    display: inline;
+}
+
+.main-posttext-silver{
+    color: #B8B8B8;
+    display: inline;
+}
+
+.main-posttext-blue{
+    color: #0098ED;
+    display: inline;
+}
+
+.rec-btn{
+    border-radius: 20px 20px 0px 0px;
+    width: 370px;
+    height: 552px;
+    background-color: #00584c;
+    margin: 0 2%;
+}
+
+
+.rec-icon-bg{
+    background-color: #00986A;
+    border-radius: 50%;
+    width: 173px;
+    height: 173px;
+    display: flex;
+    align-items: center;
+    margin-top: 15%;
+    margin-left: 27%;
+    margin-bottom: 15%;
+}
+
+.rec-icon{
+    width: 153px;
+    height: 153px;
+    margin-left: 5%;
+}
+
+.rec-icon-str{
+    width: 153px;
+    height: 153px;
+    margin-left: 6%;
+}
+
+.rec{
+    display: flex;
+    margin-top: 600px;
+    margin-left: 20.5%;
+    color:white;
+    text-align: center;
+    font-size: 50px;
+}
+
